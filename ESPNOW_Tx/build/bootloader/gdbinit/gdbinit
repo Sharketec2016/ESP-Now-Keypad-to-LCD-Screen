@@ -1,0 +1,2 @@
+source /home/matt/ESP Projects/ESPNOW_Project/ESPNOW_Tx/build/bootloader/gdbinit/symbols
+source /home/matt/ESP Projects/ESPNOW_Project/ESPNOW_Tx/build/bootloader/gdbinit/connect

@@ -1,0 +1,2 @@
+source /home/matt/ESP Projects/ESPNOW_Project/ESPNOW_Rx/build/gdbinit/symbols
+source /home/matt/ESP Projects/ESPNOW_Project/ESPNOW_Rx/build/gdbinit/connect
